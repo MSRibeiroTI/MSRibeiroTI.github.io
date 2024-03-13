@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T20:24:14.600Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="GStXgj-D2qRDOXG0bvRP" version="24.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T20:35:53.832Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="woPBZZQ_bmbtZPPTXoNy" version="24.0.6" type="github">
   <diagram name="Página-1" id="QK2LcZiCzAFV9ugIxdjv">
     <mxGraphModel dx="2206" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -182,6 +182,36 @@
         <mxCell id="RgMBws80H8EBrG6HxQD1-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.986;entryY=0.643;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="RgMBws80H8EBrG6HxQD1-38" target="RgMBws80H8EBrG6HxQD1-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <UserObject label="N, N" placeholders="1" name="Variable" id="RgMBws80H8EBrG6HxQD1-45">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="470" y="200" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="N, N" placeholders="1" name="Variable" id="RgMBws80H8EBrG6HxQD1-46">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="240" y="200" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="N" placeholders="1" name="Variable" id="RgMBws80H8EBrG6HxQD1-47">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="230" y="530" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="0" placeholders="1" name="Variable" id="RgMBws80H8EBrG6HxQD1-48">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="470" y="530" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="0" placeholders="1" name="Variable" id="RgMBws80H8EBrG6HxQD1-49">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="510" y="495" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="N" placeholders="1" name="Variable" id="RgMBws80H8EBrG6HxQD1-50">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="160" y="265" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
